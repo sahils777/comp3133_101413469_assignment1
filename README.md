@@ -10,5 +10,3 @@ This project is a GraphQL-based backend API for an Employee Management System.
 - MongoDB Database Integration
 - JWT Authentication for Security
 - Input Validation with Express Validator
-
-## 📂 Folder Structure
